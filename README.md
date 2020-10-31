@@ -12,8 +12,7 @@ The Agile Manifesto which details the values and principles around which Agile c
 Scrum is a framework used to apply methodologies such as Agile. It replaces traditional algorithmic frameworks which tend to prioritise efficiency over value. However, SCRUM is designed to be more reflective of the people and the organisation therefore more flexible
 to meet the ever-changing needs and complexities of projects.  
 The image below is commonly used to illustrate the Scrum framework. 
-![Scrum Framework]()
-
+![Scrum Framework](https://github.com/A-Ahmed100216/Agile/blob/main/scrum_framework.png)   
 
 As demonstrated, Scrum consists of roles, ceremonies and artifacts. 
 
