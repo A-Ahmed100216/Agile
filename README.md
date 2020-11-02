@@ -66,11 +66,11 @@ Like Scrum, Kanban is an Agile framework but where Scrum focusses upon ceremonie
 ![](https://github.com/A-Ahmed100216/Agile/blob/main/differences.png)
 
 ## References 
-[1 - Drumond, C. Is the Agile Manifesto still a thing? Atlassian Agile Coach](https://www.atlassian.com/agile/manifesto)
-[2 - Hartman,B. 2009. Makiing Agile a Reality, AGILEFORALL](https://agileforall.com/new-to-agile-invest-in-good-user-stories/)
-[3 - Rehkopf, Kanban Vs. Scrum , Atlassian Agile Coach](https://www.atlassian.com/agile/kanban/kanban-vs-scrum)  
-[4 - Scrum.org, What is Scrum?](https://www.scrum.org/resources/what-is-scrum)
-[5 - Visual Paradigm, What are Scrum Artifacts?](https://www.visual-paradigm.com/scrum/what-are-scrum-artifacts/)
-[6 - Visual Paradigm, What are the Three Amigos Development Strategy in Agile?](https://www.visual-paradigm.com/scrum/agile-three-amigos-development-strategy/)
-[7 - Visual Paradigm, What are Scrum Ceremonies?](https://www.visual-paradigm.com/scrum/what-are-scrum-ceremonies/)
+1. [Drumond, C. Is the Agile Manifesto still a thing? Atlassian Agile Coach](https://www.atlassian.com/agile/manifesto)   
+2. [Hartman,B. 2009. Makiing Agile a Reality, AGILEFORALL](https://agileforall.com/new-to-agile-invest-in-good-user-stories/)   
+3. [Rehkopf, Kanban Vs. Scrum , Atlassian Agile Coach](https://www.atlassian.com/agile/kanban/kanban-vs-scrum)     
+4. [Scrum.org, What is Scrum?](https://www.scrum.org/resources/what-is-scrum)   
+5. [Visual Paradigm, What are Scrum Artifacts?](https://www.visual-paradigm.com/scrum/what-are-scrum-artifacts/)   
+6. [Visual Paradigm, What are the Three Amigos Development Strategy in Agile?](https://www.visual-paradigm.com/scrum/agile-three-amigos-development-strategy/)   
+7. [Visual Paradigm, What are Scrum Ceremonies?](https://www.visual-paradigm.com/scrum/what-are-scrum-ceremonies/)   
 
