@@ -22,7 +22,7 @@ As demonstrated, Scrum consists of roles, ceremonies and artifacts.
   3. Development Team – A self-organising and cross-functional team with no titles or sub-teams. The development team is responsible for accomplishing the tasks set out in the product backlog. 
 
 ### Scrum Ceremonies
-Scrum ceremonies or events are a number of steps which can be taken in each sprint. These are [(Visual Paradigm)](https://www.visual-paradigm.com/scrum/what-are-scrum-ceremonies/) : 
+Scrum ceremonies or events are a number of steps which can be taken in each sprint. These are : 
 1. Sprint Planning Meeting – This meeting is to discuss the overall project objective and ask questions such as “What are we going to work on and how are we going to do it?”. This information is then broken down into smaller increments which can be complemented in a sprint. The team will identify what tasks they wish to complete in the forthcoming sprint. The workload is typically sufficient for two days of work. 
 2. Daily Scrum – This is a daily meeting, typically time-boxed to 15 minutes. It is organised by the scrum master. Typical questions will include ‘What has been done on the previous day?’ and ‘What needs to be done today?’. The aim of this is to ensure transparency as to what each team member has done and synchronise teamwork. 
 3. Sprint review- This is conducted at the end of each sprint and stakeholders are invited to collectively review the sprint which has just been completed. The aim is to gain feedback and evaluate whether the increment has been delivered to meet the definition of done.  Thus, questions would pertain to ‘what has been completed during this sprint?’ Feedback is then put back into the product backlog. 
@@ -63,4 +63,14 @@ It is used to reach a consensus about the order of the backlog after discussion 
 Kanban is another framework used to implement Agile. It hinges on communication
 and transparency with all work items represented on a Kanban board.  
 Like Scrum, Kanban is an Agile framework but where Scrum focusses upon ceremonies, artifacts and roles, Kanban is somewhat simpler with the Kanban board being the centre. Kanban is designed to maximise efficiency whereas Scrum centres upon continuous improvement. 
+![](https://github.com/A-Ahmed100216/Agile/blob/main/differences.png)
+
+## References 
+[1 - Drumond, C. Is the Agile Manifesto still a thing? Atlassian Agile Coach](https://www.atlassian.com/agile/manifesto)
+[2 - Hartman,B. 2009. Makiing Agile a Reality, AGILEFORALL](https://agileforall.com/new-to-agile-invest-in-good-user-stories/)
+[3 - Rehkopf, Kanban Vs. Scrum , Atlassian Agile Coach](https://www.atlassian.com/agile/kanban/kanban-vs-scrum)  
+[4 - Scrum.org, What is Scrum?](https://www.scrum.org/resources/what-is-scrum)
+[5 - Visual Paradigm, What are Scrum Artifacts?](https://www.visual-paradigm.com/scrum/what-are-scrum-artifacts/)
+[6 - Visual Paradigm, What are the Three Amigos Development Strategy in Agile?](https://www.visual-paradigm.com/scrum/agile-three-amigos-development-strategy/)
+[7 - Visual Paradigm, What are Scrum Ceremonies?](https://www.visual-paradigm.com/scrum/what-are-scrum-ceremonies/)
 
