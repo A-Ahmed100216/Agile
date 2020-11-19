@@ -74,3 +74,5 @@ Like Scrum, Kanban is an Agile framework but where Scrum focusses upon ceremonie
 6. [Visual Paradigm, What are the Three Amigos Development Strategy in Agile?](https://www.visual-paradigm.com/scrum/agile-three-amigos-development-strategy/)   
 7. [Visual Paradigm, What are Scrum Ceremonies?](https://www.visual-paradigm.com/scrum/what-are-scrum-ceremonies/)   
 
+Testing
+
